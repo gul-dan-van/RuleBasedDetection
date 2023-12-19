@@ -1,0 +1,16 @@
+List of files that are safe:
+
+free_apple_laptop.txt
+Mail Stop Letter.docx
+innocent_file.txt
+HS 346 - Bibliography.docx
+not_a_virus.txt
+set_strings_2.txt
+BIGNAME.txt
+set_strings.txt
+count_example.txt
+
+--------------------
+
+List of files that are not safe:
+
